@@ -1,0 +1,66 @@
+@font-face {
+	font-family: 'fontawesome';
+	src: url('fontawesome/fontawesome-webfont.eot');
+	src: url('fontawesome/fontawesome-webfont.eot?#iefix') format('embedded-opentype'), 
+		 url('fontawesome/fontawesome-webfont.svg#svgFontName') format('svg'),
+		 url('fontawesome/fontawesome-webfont.woff') format('woff'), 
+		 url('fontawesome/fontawesome-webfont.ttf')  format('truetype');
+	}
+
+
+@font-face {
+    font-family: 'bert_italic';
+    src: url('berthold/berthold_akzidenz_grotesk_be_italic-webfont.eot');
+    src: url('berthold/berthold_akzidenz_grotesk_be_italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('berthold/berthold_akzidenz_grotesk_be_italic-webfont.svg#berthold_akzidenz_grotesk_bit') format('svg'),
+         url('berthold/berthold_akzidenz_grotesk_be_italic-webfont.woff2') format('woff2'),
+         url('berthold/berthold_akzidenz_grotesk_be_italic-webfont.woff') format('woff'),
+         url('berthold/berthold_akzidenz_grotesk_be_italic-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'bert_regular';
+    src: url('berthold/berthold_akzidenz_grotesk_be_regular-webfont.eot');
+    src: url('berthold/berthold_akzidenz_grotesk_be_regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('berthold/berthold_akzidenz_grotesk_be_regular-webfont.svg#berthold_akzidenz_grotesk_bRg') format('svg'),
+         url('berthold/berthold_akzidenz_grotesk_be_regular-webfont.woff2') format('woff2'),
+         url('berthold/berthold_akzidenz_grotesk_be_regular-webfont.woff') format('woff'),
+         url('berthold/berthold_akzidenz_grotesk_be_regular-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'bert_bold';
+    src: url('berthold/berthold_akzidenz_grotesk_be_bold-webfont.eot');
+    src: url('berthold/berthold_akzidenz_grotesk_be_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('berthold/berthold_akzidenz_grotesk_be_bold-webfont.svg#berthold_akzidenz_grotesk_bRg') format('svg'),
+         url('berthold/berthold_akzidenz_grotesk_be_bold-webfont.woff2') format('woff2'),
+         url('berthold/berthold_akzidenz_grotesk_be_bold-webfont.woff') format('woff'),
+         url('berthold/berthold_akzidenz_grotesk_be_bold-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'bert_super';
+    src: url('berthold/berthold_akzidenz_grotesk_be_super-webfont.eot');
+    src: url('berthold/berthold_akzidenz_grotesk_be_super-webfont.eot?#iefix') format('embedded-opentype'),
+         url('berthold/berthold_akzidenz_grotesk_be_super-webfont.svg#berthold_akzidenz_grotesk_bRg') format('svg'),
+         url('berthold/berthold_akzidenz_grotesk_be_super-webfont.woff2') format('woff2'),
+         url('berthold/berthold_akzidenz_grotesk_be_super-webfont.woff') format('woff'),
+         url('berthold/berthold_akzidenz_grotesk_be_super-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
